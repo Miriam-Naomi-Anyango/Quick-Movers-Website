@@ -75,3 +75,9 @@ nav > .thelinks > ul{
     border-radius: 20px;
     margin-top: 40px;
 }
+.description{
+    border: solid gainsboro;
+    background-color: #fff;
+    border-radius: 20px;
+    margin-top: 20px;
+}
