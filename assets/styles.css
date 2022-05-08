@@ -34,3 +34,19 @@
     padding: 15px;
     border-top-right-radius: 10px;
 }
+.top{
+    margin-left: 100px;
+    margin-top: 50px;
+    text-decoration: overline;
+    padding: 30px;
+    padding-top: 100px;
+    padding-bottom: 150px;
+}
+.topy{
+    background-color: gainsboro;
+    margin: 100px;
+}
+.movers{
+    display: grid;
+    grid-template-columns: repeat(3);
+}
