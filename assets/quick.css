@@ -69,3 +69,12 @@ nav > .thelinks > ul{
     padding: 20px;
     border-top-right-radius: 10px;
 }
+.details{
+    border: solid gainsboro;
+    background-color: #fff;
+    border-radius: 20px;
+    margin-top: 40px;
+}
+table{
+    text-align: center;
+}
