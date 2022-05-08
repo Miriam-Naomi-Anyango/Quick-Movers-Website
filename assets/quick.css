@@ -1,0 +1,14 @@
+nav > .thelinks > ul >li{
+    display: inline-block;
+    padding: 10px;
+    color: #fff;
+}
+nav{
+    display: flex;
+    justify-content: space-between;
+    background-color: black;
+}
+nav > .thelinks > ul{
+    display: inline-block;
+    padding: 10px;
+}
