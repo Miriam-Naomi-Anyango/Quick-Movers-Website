@@ -12,3 +12,13 @@ nav > .thelinks > ul{
     display: inline-block;
     padding: 10px;
 }
+.thelinks{
+    display: flex;
+}
+.down{
+    display: flex;
+    justify-content: space-around;
+    background-color: black;
+    color: #fff;
+    margin-top: 0px;
+}
