@@ -19,4 +19,18 @@
 }
 .cut{
     margin-left: 100px;
+    display: flex;
+}
+#hustle{
+    margin-left: 100px;
+    margin-top: 100px;
+}
+#cutty{
+    text-decoration: overline;
+}
+.btna{
+    background-color: black;
+    color: #FAFF00;
+    padding: 15px;
+    border-top-right-radius: 10px;
 }
