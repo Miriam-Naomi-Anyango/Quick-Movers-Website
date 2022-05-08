@@ -74,6 +74,7 @@
     margin-top: 20px;
     margin-bottom: 50px;
     padding-top: 10px;
+    border-bottom: solid #FFAC12;
 }
 #items{
    display: flex;
