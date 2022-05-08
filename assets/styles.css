@@ -1,2 +1,8 @@
 .header{
-    background-color: blue;
+    background-image: url("./images/moving\ 1.png");
+    height: 830px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 100px;
+}
