@@ -69,3 +69,13 @@
     padding: 40px;
     margin-top: 0;
 }
+#foot-header{
+    margin-left: 200px;
+    margin-top: 20px;
+    margin-bottom: 80px;
+    padding-top: 50px;
+}
+#chini{
+    display: flex;
+    justify-content: space-around;
+}
