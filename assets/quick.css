@@ -20,5 +20,7 @@ nav > .thelinks > ul{
     justify-content: space-around;
     background-color: black;
     color: #fff;
-    margin-top: 0px;
+}
+.body{
+    background-color: gainsboro;
 }
