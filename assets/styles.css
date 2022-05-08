@@ -72,8 +72,28 @@
 #foot-header{
     margin-left: 200px;
     margin-top: 20px;
-    margin-bottom: 80px;
-    padding-top: 50px;
+    margin-bottom: 50px;
+    padding-top: 10px;
+}
+#items{
+   display: flex;
+   margin: 5px;
+   padding: 30px;
+   list-style-type: none;
+   width: max-content;
+}
+#btn1{
+    color: black;
+    background-color: #FAFF00;
+}
+#btn2{
+    color: #FAFF00;
+    background-color: black;
+}
+.list{
+    display: inline;
+    margin-left: 30px;
+    margin-top: 20px;
 }
 #chini{
     display: flex;
