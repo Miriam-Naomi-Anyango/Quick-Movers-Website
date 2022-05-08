@@ -23,4 +23,48 @@ nav > .thelinks > ul{
 }
 .body{
     background-color: gainsboro;
+    display: flex;
+}
+.body1{
+    border: solid white;
+    background-color: #fff;
+    padding: 20px;
+    margin: 100px;
+    margin-left: 50px;
+    border-radius: 10px;
+    padding-right: 80px;
+    padding-left: 80px;
+}
+.imagyra{
+    margin: 100px;
+}
+.bodya{
+    border: solid gainsboro;
+    padding-left: 80px;
+    padding-right: 80px;
+    margin-bottom: 10px;
+    border-radius: 10px;
+    text-align: right;
+}
+.bodyb{
+    border: solid gainsboro;
+    border-radius: 10px;
+    margin-bottom: 10px;
+}
+.bodyc{
+    border: solid gainsboro;
+    border-radius: 10px;
+    margin-bottom: 10px;
+}
+.bodyd{
+    border: solid gainsboro;
+    border-radius: 10px;
+    margin-bottom: 10px;
+   
+}
+.learn{
+    color: #fff;
+    background-color: black;
+    padding: 20px;
+    border-top-right-radius: 10px;
 }
