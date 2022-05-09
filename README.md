@@ -2,11 +2,9 @@
 
 # Design
 ### Home page
-![image](assets/images/Landing%20Page%20(2).png)
-
+![image](./assets/images/Landing%20Page.png)
 ### About page
 ![image](assets/images/Property%20Page.png)
-
 
 
 #### by Miriam Anyango.
