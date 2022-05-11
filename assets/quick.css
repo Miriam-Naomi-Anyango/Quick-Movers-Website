@@ -1,6 +1,17 @@
 *{
     font-family: 'Poppins', sans-serif;
     list-style-type: none;
+}   
+.topnav{
+    background-color: black;
+    display: flex;
+    color: #fff;
+    justify-content: space-between;
+    padding: 30px;
+}
+li{
+    display: inline;
+    padding: 20px;
 }
 .down{
     display: flex;
