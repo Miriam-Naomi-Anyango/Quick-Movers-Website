@@ -10,6 +10,7 @@
     background-size: cover;
     margin: 100px;
 }
+
 .change{
     margin-top: 100px;
     margin-left: 100px;
@@ -98,4 +99,7 @@
 #chini{
     display: flex;
     justify-content: space-around;
+}
+.ul{
+    display: inline;
 }

@@ -53,9 +53,11 @@ li{
 }
 table{
     border: gainsboro;
-    border-collapse: collapse;
-    font-size: xx-large;
-    padding: 200px;
+    font-size: large;
+    background-color: white;
+    margin-left: 100px;
+    border-radius: 20px;
+    float: ;
 }
 .profileicon{
     border: solid white;
@@ -138,14 +140,23 @@ table{
     padding: 40px;
     margin-top: 0;
 }
-#foot-header{
-    margin-left: 200px;
-    margin-top: 20px;
-    margin-bottom: 50px;
-    padding-top: 10px;
-    border-bottom: solid #FFAC12;
-}
-#chini{
+.chini{
     display: flex;
-    justify-content: space-around;
+    justify-content: space-between;
 }
+.columns{
+    display: inline-block;
+}.features{
+    list-style-type: circle;
+    border: solid gainsboro;
+    background-color: #fff;
+    border-radius: 20px;
+    margin-left: 100px;
+    margin-right: 750px;
+    margin-bottom: 50px;
+}
+div.similar{
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+    margin-top: 100px;
+    margin: 100px;
