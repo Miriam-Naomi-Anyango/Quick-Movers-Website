@@ -13,6 +13,18 @@ li{
     display: inline;
     padding: 20px;
 }
+.Great{
+    font-size: x-large;
+    font-weight: 400;
+}
+.Movers{
+    font-size: x-large;
+    font-weight: 400;
+    color: #FFAC12;
+}
+#hr{
+    background-image: linear-gradient(#FFAC12);
+}
 .down{
     display: flex;
     justify-content: space-around;
