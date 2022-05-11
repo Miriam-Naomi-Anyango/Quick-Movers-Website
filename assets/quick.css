@@ -1,7 +1,10 @@
 *{
     font-family: 'Poppins', sans-serif;
     list-style-type: none;
-}   
+} 
+body{
+    background-color: gainsboro;
+}  
 .topnav{
     background-color: black;
     display: flex;
@@ -22,8 +25,40 @@ li{
     font-weight: 400;
     color: #FFAC12;
 }
-#hr{
-    background-image: linear-gradient(#FFAC12);
+.section1{
+    display: flex;
+}
+.formlike{
+    background-color: #fff;
+    border: solid white;
+    border-radius: 20px;
+    margin-bottom: 80px;
+}
+.profileicon{
+    border: solid white;
+    background-color: gainsboro;
+    border-radius: 10px;
+    margin-top: 10px;
+}
+.therest{
+    margin-top: 10px;
+}
+#namy{
+    border: solid gainsboro;
+    border-radius: 10px;
+}
+#phone{
+    border: solid gainsboro;
+    border-radius: 10px;
+}
+#email{
+    border: solid gainsboro;
+    border-radius: 10px;
+    margin top: 200px;
+}
+#hello{
+    border: solid gainsboro;
+    border-radius: 10px;
 }
 .down{
     display: flex;
