@@ -46,9 +46,10 @@ li{
     margin-right: 750px;
     margin-top: 50px;
     margin-bottom: 50px;
-    padding-left: 30px;
+    padding-left: 10px;
     padding-top: 20px;
     border-radius: 20px;
+    border-collapse: collapse;
 }
 table{
     border: gainsboro;
@@ -117,6 +118,15 @@ table{
 }
 .smallimages{
     margin-top: 20px;
+}
+.description{
+    border: solid gainsboro;
+    background-color: #fff;
+    border-radius: 20px;
+    padding-left: 20px;
+    margin-left: 100px;
+    margin-right: 750px;
+    margin-bottom: 50px;
 }
 .footer{
     text-align: left;
