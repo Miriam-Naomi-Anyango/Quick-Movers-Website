@@ -1,3 +1,7 @@
+*{
+    list-style-type: none;
+    font-family: 'Poppins', sans-serif;
+}
 .header{
     background-image: url("./images/moving\ 1.png");
     height: 830px;
@@ -90,11 +94,6 @@
 #btn2{
     color: #FAFF00;
     background-color: black;
-}
-.list{
-    display: inline;
-    margin-left: 30px;
-    margin-top: 20px;
 }
 #chini{
     display: flex;

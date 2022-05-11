@@ -1,19 +1,4 @@
-nav > .thelinks > ul >li{
-    display: inline-block;
-    padding: 10px;
-    color: #fff;
-}
-nav{
-    display: flex;
-    justify-content: space-between;
-    background-color: black;
-}
-nav > .thelinks > ul{
-    display: inline-block;
-    padding: 10px;
-}
-.thelinks{
-    display: flex;
+
 }
 .down{
     display: flex;
@@ -21,66 +6,24 @@ nav > .thelinks > ul{
     background-color: black;
     color: #fff;
 }
-.body{
-    background-color: gainsboro;
-    display: flex;
-}
-.body1{
-    border: solid white;
-    background-color: #fff;
-    padding: 20px;
-    margin: 100px;
-    margin-left: 50px;
-    border-radius: 10px;
-    padding-right: 80px;
-    padding-left: 40px;
-    margin-bottom: 300px;
-    margin-top: 100px;
-}
-.imagyra{
-    margin: 100px;
-}
-.bodya{
-    border: solid gainsboro;
-    padding-left: 80px;
-    padding-right: 80px;
-    margin-bottom: 10px;
-    border-radius: 10px;
-    text-align: right;
-}
-.bodyb{
-    border: solid gainsboro;
-    border-radius: 10px;
-    margin-bottom: 10px;
-}
-.bodyc{
-    border: solid gainsboro;
-    border-radius: 10px;
-    margin-bottom: 10px;
-}
-.bodyd{
-    border: solid gainsboro;
-    border-radius: 10px;
-    margin-bottom: 10px;
-}
-.learn{
+.footer{
+    text-align: left;
+    height: 500px;
     color: #fff;
     background-color: black;
-    padding: 20px;
-    border-top-right-radius: 10px;
+    margin-left: 100px;
+    margin-right: 100px;
+    padding: 40px;
+    margin-top: 0;
 }
-.details{
-    border: solid gainsboro;
-    background-color: #fff;
-    border-radius: 20px;
-    margin-top: 40px;
-}
-.description{
-    border: solid gainsboro;
-    background-color: #fff;
-    border-radius: 20px;
+#foot-header{
+    margin-left: 200px;
     margin-top: 20px;
+    margin-bottom: 50px;
+    padding-top: 10px;
+    border-bottom: solid #FFAC12;
 }
-.air{
+#chini{
     display: flex;
+    justify-content: space-around;
 }
