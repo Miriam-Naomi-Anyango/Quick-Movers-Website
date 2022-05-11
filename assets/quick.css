@@ -27,12 +27,15 @@ li{
 }
 .section1{
     display: flex;
+    margin-left: 100px;
 }
+
 .formlike{
     background-color: #fff;
     border: solid white;
     border-radius: 20px;
-    margin-bottom: 80px;
+    margin-bottom: 950px;
+    padding: 35px;
 }
 .profileicon{
     border: solid white;
@@ -40,25 +43,46 @@ li{
     border-radius: 10px;
     margin-top: 10px;
 }
-.therest{
-    margin-top: 10px;
-}
 #namy{
     border: solid gainsboro;
     border-radius: 10px;
+    margin-top: 10px;
 }
 #phone{
     border: solid gainsboro;
     border-radius: 10px;
+    margin-top: 10px;
 }
 #email{
     border: solid gainsboro;
     border-radius: 10px;
-    margin top: 200px;
+    margin-top: 10px;
 }
 #hello{
     border: solid gainsboro;
     border-radius: 10px;
+    margin-top: 10px;
+}
+#btn2{
+    margin-top: 10px;
+    color: white;
+    background-color: black;
+    border-top-right-radius: 10px;
+    padding: 10px;
+}
+.btn1{
+    padding: 10px;
+    border-top-right-radius: 10px;
+    color: black;
+    background-color: #FFAC12;
+}
+.arrow{
+    color: white;
+    font-size: large;
+}
+#rightarrow{
+    color: #FFAC12;
+    font-size: large;
 }
 .down{
     display: flex;
