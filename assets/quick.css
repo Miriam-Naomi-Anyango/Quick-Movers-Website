@@ -11,6 +11,7 @@ body{
     color: #fff;
     justify-content: space-between;
     padding: 30px;
+    dec
 }
 li{
     display: inline;
@@ -28,14 +29,18 @@ li{
 .section1{
     display: flex;
     margin-left: 100px;
+    margin-top: 50px;
 }
-
 .formlike{
     background-color: #fff;
     border: solid white;
     border-radius: 20px;
     margin-bottom: 950px;
     padding: 35px;
+}
+.details{
+    background-color: white;
+    color: black;
 }
 .profileicon{
     border: solid white;
