@@ -35,12 +35,23 @@ li{
     background-color: #fff;
     border: solid white;
     border-radius: 20px;
-    margin-bottom: 950px;
+    margin-bottom: 0px;
     padding: 35px;
 }
 .details{
     background-color: white;
     color: black;
+    margin-left: 100px;
+    margin-right: 750px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    padding-left: 30px;
+    padding-top: 20px;
+    border-radius: 20px;
+}
+table{
+    border: gainsboro;
+    border-collapse: collapse;
 }
 .profileicon{
     border: solid white;
@@ -94,6 +105,12 @@ li{
     justify-content: space-around;
     background-color: black;
     color: #fff;
+}
+.tabule{
+    border: solid gainsboro;
+    border-collapse: collapse;
+    margin: 10px;
+    padding: 100;
 }
 .footer{
     text-align: left;
