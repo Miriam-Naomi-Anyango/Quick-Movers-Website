@@ -1,21 +1,25 @@
 # Quick Movers Website
 
-# Design
+### by Miriam Naomi Anyango.
+
+# Screenshot
 ### Home page
 ![image](./assets/images/Landing%20Page.png)
 ### About page
 ![image](assets/images/Property%20Page.png)
 
 
-#### by Miriam Anyango.
-
-### Description of the project.
-
 ## Table of Content 
 
 + [Description](#Description)
  
-+ [Installation Requirement](#Installation)
+ + [Features](#Features)
+
+ + [Requirement](#Requirement)
+
++ [Installation-process](#Installation-Process) 
+
++ [Live Link](#live-link)
 
 + [Technology Used](#technology-used)
 
@@ -23,29 +27,41 @@
 
 + [License](#license)
 
-+ [Authors Info](authors-info)
++ [Authors Info](#authors-info)
 
-+ [Live Link](live-link)
 
 ## Description
 
 <p>This is a Quick Movers website giving information of some of the services they offer and diaplay some of the great movers they have.</p>
 
-## Installation Requirement
+## Features
+As a user of this web application, you will be ablke to:
+1. See a description of what services are offered by the Quick Movers Company.
+2. Go to about page and explore further with images portraying so much of their services.
 
-* Either a computer, phone, tablet or an ipad.
-* Access to the internet.
+## Installation Requirement
+In order to install and use the application one will require the following
+
+* Access to eithera computer, a smartphone a tablet or any other gadget.
+* Access to Internet/ Internet connection.
+
+## Live Link
+Click this link to view the live application.
+
+LiveLink -[Gh-pages](https://miriam-naomi-anyango.github.io/Quick-Movers-Website/)
+
 
 ## Technology Used 
 
-* HTML - Used to buils the structure of the page.
+* HTML - Used to develope the structure of the pages.
 
-* CSS - Used to style the page.
+* CSS - Used to style the user Interface.
 
 ## Reference
 
 * Canvas-LMS
 * W3 schools
+* Youtube videos
 
 ## License
 
@@ -72,9 +88,3 @@ SOFTWARE.
 ## Authors Info
 
 GitHub - [Miriam Anyango](https://github.com/Miriam-Naomi-Anyango)
-
-## Live Link
-
-LiveLink -[Gh-pages](https://miriam-naomi-anyango.github.io/Quick-Movers-Website/)
-
-
